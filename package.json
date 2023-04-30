@@ -2,5 +2,11 @@
     "author": "Chanchal",
     "devDependencies": {
         "typescript": "5.0.4"
-    }
+    },
+    "main":"src/index.js",
+    "scripts": {
+        "build":"tsc"
+    },
+    "type": "module",
+    "version": "0.0.1"
 }
